@@ -1,0 +1,8 @@
+//Example Json
+{
+    "username" : "postgres",
+    "password" : "",
+    "host" : "localhost",
+    "database" : "PcShopDb;",
+    "port" : "5432"
+}

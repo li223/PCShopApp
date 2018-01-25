@@ -1,0 +1,59 @@
+DROP DATABASE IF EXISTS PcShopDb;
+
+CREATE DATABASE PcShopDb;
+
+USE PcShopDb;
+
+
+
+CREATE TABLE staff(
+StaffId INT PRIMARY KEY AUTO_INCREMENT,
+StaffFname VARCHAR(30),
+StaffSname VARCHAR(30));
+
+INSERT INTO staff VALUES (null, 'Bob', 'Harmen'), (null, 'Jake', 'Mitchel');
+
+CREATE TABLE logins(
+StaffId INT,
+Username VARCHAR(30),
+Password VARCHAR(30),
+FOREIGN KEY (StaffId) REFERENCES staff(StaffId));
+
+INSERT INTO logins VALUES (1, 'Admin', 'Password'), (2, 'User', 'UserPass');
+
+CREATE TABLE customers(
+CustomerId INT PRIMARY KEY AUTO_INCREMENT,
+fname VARCHAR(30),
+sname VARCHAR(30),
+telephone VARCHAR(11),
+address TEXT);
+INSERT INTO customers VALUES 
+(null, 'John', 'Doe', '123456789', '123 grove street'),
+(null, 'Jane', 'Doe', '123456789', '43 drive far'),
+(null, 'Tim', 'Smith', '123456789', '64 drive close'),
+(null, 'Bob', 'Dillans', '123456789', '19 driveway');
+
+CREATE TABLE orders(
+OrderId INT PRIMARY KEY AUTO_INCREMENT,
+CustomerId INT,
+StaffId INT,
+PaymentType VARCHAR(50),
+Parts TEXT,
+Total FLOAT,
+FOREIGN KEY (CustomerId) REFERENCES customers(CustomerId),
+FOREIGN KEY (StaffId) REFERENCES staff(StaffId));
+
+INSERT INTO orders VALUES (null, 1, 1, 'cash', 'Motherboard A,RAM B,PSU C,Case A,CPU A,GPU C,Harddrive A,Harddrive C', '820.64');
+
+CREATE TABLE items(
+ItemName VARCHAR(20),
+ItemPrice FLOAT(6));
+
+INSERT INTO items VALUES 
+('Motherboard A', 146.23),('Motherboard B', 179.77),('Motherboard C', 268.99),
+('RAM A', 25.66),('RAM B', 42.23),('RAM C', 72.60),
+('PSU A', 45.21),('PSU B', 76.99),('PSU C', 92.99),
+('CPU A', 127.55),('CPU B', 160.53),('CPU C', 246.31),
+('Case A', 52.99),('Case B', 99.99),('Case C', 120.33),
+('GPU A', 151.99),('GPU B', 259.69),('GPU C', 320.24),
+('Harddrive A', 56.33),('Harddrive B', 80.24),('Harddrive C', 153.55);
