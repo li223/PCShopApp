@@ -1,0 +1,65 @@
+D:\college\yr2\PC Shop Task\PCShopApp\PCShopApp\obj\Debug\MainWindow.g.cs
+D:\college\yr2\PC Shop Task\PCShopApp\PCShopApp\obj\Debug\App.g.cs
+D:\college\yr2\PC Shop Task\PCShopApp\PCShopApp\obj\Debug\PCShopApp_MarkupCompile.cache
+D:\college\yr2\PC Shop Task\PCShopApp\PCShopApp\obj\Debug\PCShopApp_MarkupCompile.lref
+D:\college\yr2\PC Shop Task\PCShopApp\PCShopApp\obj\Debug\PCShopApp.exe
+D:\college\yr2\PC Shop Task\PCShopApp\PCShopApp\obj\Debug\PCShopApp.pdb
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\PCShopApp.exe.config
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\PCShopApp.exe
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\PCShopApp.pdb
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\MySql.Data.dll
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\MySql.Data.xml
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.csprojResolveAssemblyReference.cache
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\MainWindow.g.cs
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\LoginWindow.g.cs
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\App.g.cs
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp_MarkupCompile.cache
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp_MarkupCompile.lref
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\MainWindow.baml
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\LoginWindow.baml
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.g.resources
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.Properties.Resources.resources
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.csproj.GenerateResource.Cache
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.exe
+\\walcat.ac.uk\Resources\Student Home Drives\10199161\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.pdb
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\PCShopApp.exe.config
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\PCShopApp.exe
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\PCShopApp.pdb
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\MySql.Data.dll
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\MySql.Data.xml
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.csprojResolveAssemblyReference.cache
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\MainWindow.g.cs
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\LoginWindow.g.cs
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\App.g.cs
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp_MarkupCompile.cache
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp_MarkupCompile.lref
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\MainWindow.baml
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\LoginWindow.baml
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.g.resources
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.Properties.Resources.resources
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.csproj.GenerateResource.Cache
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.csproj.CoreCompileInputs.cache
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.exe
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.pdb
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pp\Documents\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\Newtonsoft.Json.xml
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\PCShopApp.exe.config
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\PCShopApp.exe
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\PCShopApp.pdb
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\MySql.Data.dll
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\Newtonsoft.Json.dll
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\MySql.Data.xml
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\bin\Debug\Newtonsoft.Json.xml
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\MainWindow.g.cs
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\LoginWindow.g.cs
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\App.g.cs
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp_MarkupCompile.cache
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp_MarkupCompile.lref
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\MainWindow.baml
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\LoginWindow.baml
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.g.resources
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.Properties.Resources.resources
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.csproj.GenerateResource.Cache
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.exe
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.pdb
+U:\Visual Studio 2017\Projects\PCShopApp\PCShopApp\obj\Debug\PCShopApp.csprojResolveAssemblyReference.cache
