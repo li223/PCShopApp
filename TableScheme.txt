@@ -1,17 +1,9 @@
-DROP DATABASE IF EXISTS PcShopDb;
-
-CREATE DATABASE PcShopDb;
-
-USE PcShopDb;
-
-
-
 CREATE TABLE staff(
-StaffId INT PRIMARY KEY AUTO_INCREMENT,
+StaffId SERIAL PRIMARY KEY,
 StaffFname VARCHAR(30),
 StaffSname VARCHAR(30));
 
-INSERT INTO staff VALUES (null, 'Bob', 'Harmen'), (null, 'Jake', 'Mitchel');
+INSERT INTO staff VALUES (1, 'Bob', 'Harmen'), (2, 'Jake', 'Mitchel');
 
 CREATE TABLE logins(
 StaffId INT,
@@ -22,19 +14,19 @@ FOREIGN KEY (StaffId) REFERENCES staff(StaffId));
 INSERT INTO logins VALUES (1, 'Admin', 'Password'), (2, 'User', 'UserPass');
 
 CREATE TABLE customers(
-CustomerId INT PRIMARY KEY AUTO_INCREMENT,
+CustomerId SERIAL PRIMARY KEY,
 fname VARCHAR(30),
 sname VARCHAR(30),
 telephone VARCHAR(11),
 address TEXT);
 INSERT INTO customers VALUES 
-(null, 'John', 'Doe', '123456789', '123 grove street'),
-(null, 'Jane', 'Doe', '123456789', '43 drive far'),
-(null, 'Tim', 'Smith', '123456789', '64 drive close'),
-(null, 'Bob', 'Dillans', '123456789', '19 driveway');
+(1, 'John', 'Doe', '123456789', '123 grove street'),
+(2, 'Jane', 'Doe', '123456789', '43 drive far'),
+(3, 'Tim', 'Smith', '123456789', '64 drive close'),
+(4, 'Bob', 'Dillans', '123456789', '19 driveway');
 
 CREATE TABLE orders(
-OrderId INT PRIMARY KEY AUTO_INCREMENT,
+OrderId SERIAL PRIMARY KEY,
 CustomerId INT,
 StaffId INT,
 PaymentType VARCHAR(50),
@@ -43,7 +35,7 @@ Total FLOAT,
 FOREIGN KEY (CustomerId) REFERENCES customers(CustomerId),
 FOREIGN KEY (StaffId) REFERENCES staff(StaffId));
 
-INSERT INTO orders VALUES (null, 1, 1, 'cash', 'Motherboard A,RAM B,PSU C,Case A,CPU A,GPU C,Harddrive A,Harddrive C', '820.64');
+INSERT INTO orders VALUES (1, 1, 1, 'cash', 'Motherboard A,RAM B,PSU C,Case A,CPU A,GPU C,Harddrive A,Harddrive C', '820.64');
 
 CREATE TABLE items(
 ItemName VARCHAR(20),
@@ -57,3 +49,4 @@ INSERT INTO items VALUES
 ('Case A', 52.99),('Case B', 99.99),('Case C', 120.33),
 ('GPU A', 151.99),('GPU B', 259.69),('GPU C', 320.24),
 ('Harddrive A', 56.33),('Harddrive B', 80.24),('Harddrive C', 153.55);
+
