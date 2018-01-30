@@ -3,6 +3,6 @@
     "username" : "postgres",
     "password" : "",
     "host" : "localhost",
-    "database" : "PcShopDb;",
+    "database" : "PcShopDb",
     "port" : "5432"
 }
