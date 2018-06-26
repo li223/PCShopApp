@@ -32,7 +32,7 @@ namespace PCShopApp.Objects
         }
     }
 
-    public class Login
+    public struct Login
     {
         [JsonProperty("StaffId")]
         public int StaffId { get; set; }
@@ -41,7 +41,8 @@ namespace PCShopApp.Objects
         [JsonProperty("Password")]
         public string Password { get; set; }
     }
-    public class Staff
+    
+    public struct Staff
     {
         [JsonProperty("StaffId")]
         public int Id { get; set; }
@@ -50,14 +51,16 @@ namespace PCShopApp.Objects
         [JsonProperty("StaffSname")]
         public string Surname { get; set; }
     }
-    public class Item
+    
+    public struct Item
     {
         [JsonProperty("ItemName")]
         public string Name { get; set; }
         [JsonProperty("ItemPrice")]
         public decimal Price { get; set; }
     }
-    public class Order
+    
+    public struct Order
     {
         [JsonProperty("OrderId")]
         public int Id { get; set; }
@@ -72,7 +75,8 @@ namespace PCShopApp.Objects
         [JsonProperty("Total")]
         public decimal Total { get; set; }
     }
-    public class Customer
+    
+    public struct Customer
     {
         [JsonProperty("CustomerId")]
         public int Id { get; set; }
